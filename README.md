@@ -34,6 +34,8 @@ A couple of great resources to wrap your head around `git`:
   * An FAQ of git situations.
 * [How to undo (almost) anything with Git](https://blog.github.com/2015-06-08-how-to-undo-almost-anything-with-git/)
   * A blog post with some descriptions to help you understand what's going on.
+* [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules)
+  * A maintained repo with lots of ways to fix things.
 
 ## I want to goof off during the interactive part
 * [Classic Programmer Paintings](http://classicprogrammerpaintings.com/post/142586036029/junior-programmer-learns-git-rebase)
