@@ -14,7 +14,7 @@ git clone git@github.com:benortiz/talk-git-is-neat.git
 cd talk-git-is-neat/
 # Run an example
 # Have fun and break things
-git reset --hard origin master
+git reset --hard origin/master
 # Run another example
 ```
 
